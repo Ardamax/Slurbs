@@ -1,0 +1,7 @@
+{
+  "name": "Slurbs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
